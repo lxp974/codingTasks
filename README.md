@@ -1,7 +1,7 @@
 # codingTasks
 
 ## coding_task1
-Code: coding_task1
+Code: coding_task1 <br>
 input: coding_qual_input.txt
 
 ### Task:
